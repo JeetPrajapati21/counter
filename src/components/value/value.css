@@ -1,0 +1,7 @@
+.counter-value {
+    position: absolute;
+    font-size: 12px;
+    font-weight: 500;
+    bottom: 11px;
+    left: 42px;
+  }
